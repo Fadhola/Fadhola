@@ -68,20 +68,26 @@ Combining data insights with a **Full-Stack Web Development** background to buil
 
 ### Featured Projects
 
+- **[💬 BPJSChaBo – BPJS Chatbot with NLP & RAG Pipeline](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-043-rmt-group-003)**  
+  Developed an AI-powered chatbot that provides real-time, accurate answers to BPJS-related questions by leveraging RAG (Retrieval-Augmented Generation) and NLP techniques. Collaborated in a team of 5 as the Data Engineer, responsible for collecting, cleaning, validating, and storing data from official BPJS sources. Designed an end-to-end data pipeline including MongoDB vector storage and deployed the app on Hugging Face using Streamlit.  
+  **Tech stack:** Python, Pandas, LangChain, Gemini Flash, Deepseek-V3/R1, MongoDB Atlas Vector Search, Streamlit, Hugging Face  
+
+- **[🛒 End-to-End Pipeline for E-Commerce Shopping Behavior Analytics](https://github.com/Fadhola/End-to-End-Pipeline-for-E-Commerce-Shopping-Behavior-Analytics)**  
+  Built an automated data pipeline that pulls raw shopping data from PostgreSQL, performs cleaning and validation, and pushes processed data to Elasticsearch for analysis. Insights were visualized through interactive dashboards on Kibana, showing seasonal trends, top categories, color preferences, and discount impacts on repeat purchases.  
+  **Tech stack:** Python, PostgreSQL, Apache Airflow, Elasticsearch, Kibana, Pandas, Matplotlib, Seaborn, Great Expectations  
+
+- **[🧴 Skin Type Classification using CNN](https://github.com/Fadhola/Skin-Type-Classification-with-CNN)**  
+  Developed a CNN model to classify facial skin types (oily, dry, normal) to assist skincare beginners in selecting suitable products. Improved validation accuracy using data augmentation, batch normalization, dropout, and learning rate scheduling. Deployed via Streamlit for real-time image-based prediction.  
+  **Tech stack:** Python, TensorFlow, Keras, scikit-learn, Streamlit, NumPy, Matplotlib, PIL, Kaggle  
+
 - **[🫀 Heart Failure Mortality Prediction](https://github.com/Fadhola/Heart-Failure-Mortality-Prediction)**  
-  Predicts patient risk using ML & visualization
-  
-- **[🛒 E-Commerce Shopping Behavior Pipeline](https://github.com/Fadhola/End-to-End-Pipeline-for-E-Commerce-Shopping-Behavior-Analytics)**  
-  An end-to-end Airflow + Elastic pipeline for clickstream data
+  Predicted the mortality risk of heart failure patients based on clinical data using supervised learning models. Provided insights for early care, medical advice, and risk monitoring to improve patient outcomes.  
+  **Tech stack:** Python, Pandas, Seaborn, Matplotlib, NumPy, Scikit-learn, SciPy, XGBoost, Pickle  
 
-- **[📈 Superstore Sales Dashboard (RevoU x MSIB)](https://github.com/Fadhola/km-feb24-jakarta-16)**  
-  Dashboard + frontend app for business analytics
+- **[🚴‍♂️ Data Analysis – Revenue Strategy Design for Road Bikes in Canada](https://github.com/Fadhola/Road-Bikes-Revenue-Strategy)**  
+  Conducted data-driven analysis to identify opportunities for increasing Road Bikes revenue in the Canadian market. Proposed actionable strategies to achieve a 35% revenue growth target, presented via visualizations and an interactive Tableau dashboard.  
+  **Tech stack:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook, Tableau  
 
-- **[🧠 MentalCare App (Capstone)](https://github.com/anggistaop/MentalCare)**  
-  Laravel web platform for mental health management
-
-- **[🌐 My Portfolio Website](https://github.com/Fadhola/fadhols-portfoliov2)**  
-  Built with React to showcase projects
 
 ---
 
