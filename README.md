@@ -107,7 +107,7 @@ Combining data insights with a **Full-Stack Web Development** background to buil
 
 ### Let's Connect
 
-- 🌍 [Portfolio Web](https://fadhols.vercel.app)  
+- 🌍 [Portfolio Web](https://fadhols-portfolio.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fadhola-asandi-mardika-putra-a814b321b)  
 - 📧 fadholasandi@gmail.com  
 
